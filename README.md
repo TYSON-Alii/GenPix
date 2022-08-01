@@ -1,5 +1,5 @@
 ## GenPix
-generative pixel art creator on python with discord api [random based]
+generative pixel art creator with discord api [random based]
 ## How its work
 [watch on youtube](https://youtube.com/shorts/btzJNwgyay0?feature=share)
 ## Galery
