@@ -1,2 +1,31 @@
-# GenPix
-generative pixel art creator on python with discord api
+## GenPix
+generative pixel art creator on python with discord api [random based]
+## How its work
+[watch on youtube](https://youtube.com/shorts/btzJNwgyay0?feature=share)
+## Galery
+![img](https://cdn.discordapp.com/attachments/915324830188994590/1003689503124361276/Discord-Whooper.png)
+![img](https://cdn.discordapp.com/attachments/915324830188994590/1003683037697019945/Discord-Whooper.png)
+![img](https://cdn.discordapp.com/attachments/915324830188994590/1003675794205327440/Discord-Whooper.png)
+![img](https://cdn.discordapp.com/attachments/915324830188994590/1003675723199950898/Discord-Whooper.png)
+![img](https://cdn.discordapp.com/attachments/915324830188994590/1003675605813956648/Discord-Whooper.png)
+![img](https://cdn.discordapp.com/attachments/915324830188994590/1003666587791921224/Discord-Whooper.png)
+![img](https://cdn.discordapp.com/attachments/915324830188994590/1003666441079373844/Discord-Whooper.png)
+![img](https://cdn.discordapp.com/attachments/915324830188994590/1003665860226973806/Discord-Whooper.png)
+![img](https://cdn.discordapp.com/attachments/915324830188994590/1003665841109352458/Discord-Whooper.png)
+![img](https://cdn.discordapp.com/attachments/915324830188994590/1003665730161618964/Discord-Whooper.png)
+![img](https://cdn.discordapp.com/attachments/915324830188994590/1003665401693097984/Discord-Whooper.png)
+![img](https://cdn.discordapp.com/attachments/915324830188994590/1003665397121298462/Discord-Whooper.png)
+![img](https://cdn.discordapp.com/attachments/915324830188994590/1003665087132860476/Discord-Whooper.png)
+![img](https://cdn.discordapp.com/attachments/915324830188994590/1003664866843824218/Discord-Whooper.png)
+![img](https://cdn.discordapp.com/attachments/915324830188994590/1003664729174188142/Discord-Whooper.png)
+![img](https://cdn.discordapp.com/attachments/915324830188994590/1003662897039278181/Discord-Whooper.png)
+![img](https://cdn.discordapp.com/attachments/915324830188994590/1003662874603958412/Discord-Whooper.png)
+![img](https://cdn.discordapp.com/attachments/915324830188994590/1003662681506590770/Discord-Whooper.png)
+![img](https://cdn.discordapp.com/attachments/915324830188994590/1003662583707992075/Discord-Whooper.png)
+![img](https://cdn.discordapp.com/attachments/915324830188994590/1003662454292746240/Discord-Whooper.png)
+![img](https://cdn.discordapp.com/attachments/915324830188994590/1003662178282377267/Discord-Whooper.png)
+![img](https://cdn.discordapp.com/attachments/915324830188994590/1003662163157712996/Discord-Whooper.png)
+![img](https://cdn.discordapp.com/attachments/915324830188994590/1003662154660069477/Discord-Whooper.png)
+![img](https://cdn.discordapp.com/attachments/915324830188994590/1003640255905288202/Discord-Whooper.png)
+![img](https://cdn.discordapp.com/attachments/915324830188994590/1003617154307985439/Discord-Whooper.png)
+![img](https://cdn.discordapp.com/attachments/915324830188994590/1003616742796435536/Discord-Whooper.png)
