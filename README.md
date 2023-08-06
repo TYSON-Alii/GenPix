@@ -3,7 +3,7 @@ generative pixel art creator with discord api [random based]
 ## How its work
 [watch on youtube](https://youtube.com/shorts/btzJNwgyay0?feature=share)
 ## Galery
-![img](https://cdn.discordapp.com/attachments/915324830188994590/1003689503124361276/Discord-Whooper.png)
+![img](https://cdn.discordapp.com/attachments/915324830188994590/1003689503124361276/Discord-Whooper.png =250x250)
 ![img](https://cdn.discordapp.com/attachments/915324830188994590/1003683037697019945/Discord-Whooper.png)
 ![img](https://cdn.discordapp.com/attachments/915324830188994590/1003675794205327440/Discord-Whooper.png)
 ![img](https://cdn.discordapp.com/attachments/915324830188994590/1003675723199950898/Discord-Whooper.png)
